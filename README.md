@@ -1,2 +1,0 @@
-# basicx
-basic libraries
