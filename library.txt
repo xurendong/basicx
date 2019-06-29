@@ -1,6 +1,6 @@
 
 Library: CMake
-Version: 3.9.4
+Version: 3.14.3
 License: BSD
 Website: https://cmake.org
 
@@ -10,7 +10,7 @@ License: BSD
 Website: https://github.com/gperftools/gperftools
 
 Library: Boost
-Version: 1.65.1
+Version: 1.70.0
 License: Boost
 Website: http://www.boost.org
 
@@ -30,7 +30,7 @@ License: MIT
 Website: https://github.com/open-source-parsers/jsoncpp
 
 Library: MariaDB Connector/C
-Version: 3.0.3
+Version: 3.1.2
 License: LGPL
 Website: https://downloads.mariadb.org/connector-c
 
@@ -38,3 +38,4 @@ Library: otlv4
 Version: 4.0.420
 License: BSD
 Website: http://otl.sourceforge.net
+
