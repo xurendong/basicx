@@ -39,3 +39,7 @@ Version: 4.0.420
 License: BSD
 Website: http://otl.sourceforge.net
 
+Library: ajson
+Version: 0.2.2
+License: Boost
+Website: https://github.com/lordoffox/ajson
