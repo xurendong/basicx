@@ -1,5 +1,5 @@
 # BasicX
-V0.9.9-Beta Build 20190726
+V1.0.0 Build 20190925
 
 © 2018-2019 Xu Rendong. All Rights Reserved.
 
