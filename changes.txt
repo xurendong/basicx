@@ -1,4 +1,7 @@
 
+2019-12-09 1.0.1:
+ - improve plugins for remote control
+
 2019-09-25 1.0.0:
  - fix some bugs
 
